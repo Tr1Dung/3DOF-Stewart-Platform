@@ -7,6 +7,7 @@
 A 3-DOF (pitch, roll, heave) 3-RPS Stewart platform driven by three stepper-motor electric linear actuators and controlled by an STM32H753 microcontroller. Built as an RMIT University Vietnam engineering capstone, it serves as an academic demonstrator and as the base for ongoing work on vision-based ball balancing with closed-loop control.
 **Hardware**
 STM32H753, 3× DM542 drivers, actuator specs (200 mm stroke, 12 mm lead), 24V power supply.
+
 **Build and flash**
 1. Open /firmware in STM32CubeIDE → build → flash via ST-Link.
 2. Putty manual input via serial communication.
