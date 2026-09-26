@@ -73,7 +73,7 @@ static void MX_USART2_UART_Init(void);
 /* USER CODE END 0 */
 
 /**
-  * @brief  The applAication entry point.
+  * @brief  The application entry point.
   * @retval int
   */
 int main(void)
